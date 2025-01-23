@@ -4,7 +4,7 @@ import React from 'react'
 const CustomModal = () => {
     return (
         <View>
-            <Text>CustomModal</Text>
+            <Text>Feature one custome modal</Text>
         </View>
     )
 }
