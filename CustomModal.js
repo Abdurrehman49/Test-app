@@ -4,7 +4,7 @@ import React from 'react'
 const CustomModal = () => {
     return (
         <View>
-            <Text>CustomModal</Text>
+            <Text>this is updated agian</Text>
         </View>
     )
 }
