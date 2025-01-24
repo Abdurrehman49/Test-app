@@ -5,9 +5,6 @@ const Componets = () => {
     return (
         <View>
             <Text>Componets is updated</Text>
-            <Text>
-                Hello component
-            </Text>
         </View>
     )
 }
