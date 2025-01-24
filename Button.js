@@ -4,7 +4,7 @@ import React from 'react'
 const Button = () => {
     return (
         <View>
-            <Text>Button updated</Text>
+            <Text>Button updated again</Text>
         </View>
     )
 }
