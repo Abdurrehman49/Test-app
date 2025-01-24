@@ -4,7 +4,7 @@ import React from 'react'
 const Componets = () => {
     return (
         <View>
-            <Text>Componets</Text>
+            <Text>Componets is updated</Text>
         </View>
     )
 }
